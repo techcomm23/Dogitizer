@@ -48,13 +48,16 @@ When we input a dog image, the model will detect a dog and returns the predicted
 
 ![English springer spaniel](/images/dogres1.jpg)
 
+
 * Input2: the algorithm was successfully able to detect a "dog" and classify the breed as "Basenji"
 
 ![Basenji](/images/dogres2.jpg)
 
+
 * Input3: the algorithm was successfully able to detect a "dog" and classify the breed as "Bull terrier"
 
 ![Bull terrier](/images/dogres3.jpg)
+
 ---
 
 ## License
