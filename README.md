@@ -46,19 +46,20 @@ When we input a human image, the model will detect a human and returns the resem
 When we input a dog image, the model will detect a dog and returns the predicted breed.
 * Input1: the algorithm was successfully able to detect a "dog" and classify the breed as "English springer spaniel"
 
-![English springer spaniel](/images/dogres1.jpg)
+![English springer spaniel](/images/dogrslt1.jpg)
 
 
 * Input2: the algorithm was successfully able to detect a "dog" and classify the breed as "Basenji"
 
-![Basenji](/images/dogres2.jpg)
+![Basenji](/images/dogrslt2.jpg)
 
 
 * Input3: the algorithm was successfully able to detect a "dog" and classify the breed as "Bull terrier"
 
-![Bull terrier](/images/dogres3.jpg)
+![Bull terrier](/images/dogrslt3.jpg)
 
 ---
+
 
 ## License
 
