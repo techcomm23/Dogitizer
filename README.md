@@ -29,7 +29,7 @@ The goal of this project is to understand the challenges involved in designing a
 When we input a human image, the model will detect a human and returns the resembling dog breed.
 * Input1: the algorithm was successfully able to detect a "human" and identified the resembling breed as "Chinese crested"
 
-![Chinese crested](/images/Chinese crested.jpg)
+![Chinese crested](/images/Chinese-crested.jpg)
 
 
 * Input2: the algorithm was successfully able to detect a "human" and identified the resembling breed as "Dachshund"
@@ -39,14 +39,14 @@ When we input a human image, the model will detect a human and returns the resem
 
 * Input3: the algorithm was successfully able to detect a "human" and identified the resembling breed as "Bedlington terrier"
 
-![Bedlington terrier](/images/Bedlington terrier.jpg)
+![Bedlington terrier](/images/Bedlington-terrier.jpg)
 
 
 #### Dog Results
 When we input a dog image, the model will detect a dog and returns the predicted breed.
 * Input1: the algorithm was successfully able to detect a "dog" and classify the breed as "English springer spaniel"
 
-![English springer spaniel](/images/English springer spaniel.jpg)
+![English springer spaniel](/images/English-springer-spaniel.jpg)
 
 * Input2: the algorithm was successfully able to detect a "dog" and classify the breed as "Basenji"
 
@@ -54,7 +54,7 @@ When we input a dog image, the model will detect a dog and returns the predicted
 
 * Input3: the algorithm was successfully able to detect a "dog" and classify the breed as "Bull terrier"
 
-![Bull terrier](/images/Bull terrier.jpg)
+![Bull terrier](/images/Bull-terrier.jpg)
 ---
 
 ## License
